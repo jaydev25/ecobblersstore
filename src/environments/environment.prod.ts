@@ -8,7 +8,7 @@
  * Licensed under the MIT license.
  */
 export const environment = {
-    production: true,
-    storeUrl: '', // <Your API base url>
-    imageUrl: '' // <Your API url for image resize>
+  production: true,
+  storeUrl: 'http://ecobblersapi.westindia.cloudapp.azure.com:9000/api/', // <Your API base url>
+  imageUrl: 'http://ecobblersapi.westindia.cloudapp.azure.com:9000/api/media/image-resize' // <Your API url for image resize>
 };

@@ -14,7 +14,7 @@
 
 export const environment = {
     production: true,
-    storeUrl: 'http://ecobblersapi.westindia.cloudapp.azure.com:9000/api', // <Your API base url>
+    storeUrl: 'http://ecobblersapi.westindia.cloudapp.azure.com:9000/api/', // <Your API base url>
     imageUrl: 'http://ecobblersapi.westindia.cloudapp.azure.com:9000/api/media/image-resize' // <Your API url for image resize>
 };
 
